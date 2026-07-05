@@ -63,5 +63,4 @@ Features:
 
 ## 📫 Connect With Me
 
-LinkedIn:
-(Add your LinkedIn link)
+LinkedIn:https://www.linkedin.com/in/himanshuattri130804
