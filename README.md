@@ -59,6 +59,8 @@ Features:
 - Posts
 - Notes Sharing
 - Admin Verification
+Live:
+campus-connect-lovat-two.vercel.app
 
 
 ## 📫 Connect With Me
